@@ -31,8 +31,7 @@ This project requires Python 3.6+ and the following libraries:
 To set up the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt` (ensure you create a virtual environment if necessary).
-3. Run the notebook `LLM_RAG_CHAINLIT.ipynb` using Jupyter Notebook or Google Colab to start the application.
+2. Run the notebook `LLM_RAG_CHAINLIT.ipynb` using Jupyter Notebook or Google Colab to start the application.
 
 ## Usage
 
